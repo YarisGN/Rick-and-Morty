@@ -1,6 +1,6 @@
 # rest API consumption - Rick and morty
 
-This project was created with React, it consumes a Rick and Morty API.
+This project was created with React, this application consumes and displays information from a Rick and Morty API.
 
 ## Screenshots
 
