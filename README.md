@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# rest API consumption - Rick and morty
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with React, it consumes a Rick and Morty API.
+
+## Screenshots
+
+![Alt text](captura_de_pantalla.png)
+
 
 ## Available Scripts
 
